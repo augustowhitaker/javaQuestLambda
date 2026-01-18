@@ -1,4 +1,4 @@
-package exercicio01.src;
+package exercicio01;
 
 public class Cachorro implements Animal {
     

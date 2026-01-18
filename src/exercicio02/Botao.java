@@ -1,4 +1,4 @@
-package exercicio02.src;
+package exercicio02;
 
 public class Botao {
     public void apertar(EmitirSom som){

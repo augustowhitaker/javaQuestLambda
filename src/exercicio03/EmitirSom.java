@@ -1,4 +1,4 @@
-package exercicio03.src;
+package exercicio03;
 @FunctionalInterface
 public interface EmitirSom {
     void emitir();

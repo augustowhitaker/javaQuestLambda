@@ -1,5 +1,4 @@
-package exercicio02.src;
-
+package exercicio02;
 
 public class Pomba implements EmitirSom {
 

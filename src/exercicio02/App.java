@@ -1,11 +1,11 @@
-package exercicio03.src;
+package exercicio02;
 
 public class App {
     public static void main(String[] args) {
         
        Botao botao = new Botao();
-       botao.apertar(() -> System.out.println("Pruuu"));
+       Pomba pomba = new Pomba();
 
-        
+       botao.apertar(pomba);
     }
 }
