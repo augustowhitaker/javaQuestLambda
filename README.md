@@ -1,4 +1,4 @@
-# 🚀 Lista de Exercícios - Interfaces e Lambdas em Java ☕️
+#  Lista de Exercícios - Interfaces e Lambdas em Java ☕️
 
 Lista de exercícios do **Professor Lucas** para revisar interfaces e praticar **lambdas**.  
 Foco: **passar comportamento como parâmetro**, útil em eventos e botões no Java Swing.
