@@ -73,7 +73,7 @@ Nesta lista de exercícios, o aluno **Augusto** praticou:
 Esses exercícios reforçam conceitos fundamentais de Java que são essenciais para programação **orientada a objetos** e construção de **interfaces gráficas interativas**.
 
 ---
-
+ 
 ## Author
 
 - **Aluno:** Augusto  
