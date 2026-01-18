@@ -1,11 +1,10 @@
-# IDEs
-.idea/
-*.iml
+
+
 .project
 .classpath
 .settings/
 .vscode/
-
-# Sistema operacional
+/bin
 .DS_Store
 Thumbs.db
+*.class
